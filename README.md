@@ -72,7 +72,6 @@ The **Details Page** provides a **comprehensive and user-friendly interface** fo
 
 🔹 **Tech Stack:** Power BI, SQL Server, DAX  
 📊 **Dataset:** Banking loans data (USA, 2021)  
-📝 **Author:** [Your Name]
 
 
 SQL Server – Data validation and cross-checking accuracy
@@ -86,3 +85,11 @@ Open the Power BI file.
 Load the dataset.
 
 Explore insights via interactive visualizations.
+
+## Credits & Acknowledgments
+
+This project idea was inspired by the following YouTube video:  
+[Power BI Complete Tutorial | Power BI Project | Bank Loan Analysis | Finance Domain - Data Tutorials](https://youtu.be/3I8wd1AShXs?si=AxiEjX9qXuXvTVZF)
+
+Special thanks to the original creator for sharing valuable insights on banking loan data analysis!  
+
